@@ -1,0 +1,8 @@
+/UnitySDK
+
+# Training environments
+/environments
+
+*.so 
+*.reSs 
+*.psd
