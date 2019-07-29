@@ -7,7 +7,7 @@
 
 
 
-<img src="docs/images/AllEnvironments.png" align="middle" width="3000"/>
+<img src="docs/images/AllEnvironments.png" align="middle" width=100%/>
 
 
 
@@ -75,5 +75,3 @@ If you download this deposit, you can only work on the environments already buil
 We used the open-source project ML-Agents and designed our environments with the software Unity. If you have questions about how work these toolkits you can read the [ML-Agents documentation](https://github.com/Unity-Technologies/ml-agents).
 
 If you want to learn more about the Flowers Team of Inria Bordeaux Sud-Ouest, go on our [web site](https://flowers.inria.fr/).
-
-

@@ -1,26 +1,44 @@
 # Unity ML-Agents Toolkit Documentation
 
-## Use the environments with GYM
+## Use the Unity environments with GYM
 
-- Installation
-  - [Anaconda](Anaconda_Install.md)
-  - [ML-Agents & Gym-Unity](ML-Agents_Install.md)
-- Launch an Environment
-  - [Jupyter Notebook](Jupyter_Notebook.md)
-  - [Command details](Command_Details.md)
+1. Installation
 
-## Change the environments with Unity
+   * [Anaconda](Anaconda_Install.md)
 
-- [Installation]
-  - Unity SDK
-- [Example with the First Environment]
-  - Agent
-  - Brain
-  - Academy
-  - Add informations in the dictionary
-  - Change reset parameters
-  - Build the application
+   * [ML-Agents & Gym-Unity](ML-Agents_Install.md)
 
-## ML-Agents documentation for the researchers
+2. Launch an Environment
 
-- 
+   * [Jupyter Notebook](Jupyter_Notebook.md)
+
+   * [Command details](Command_Details.md)
+
+
+
+## ML-Agents in Unity
+
+1. Installation
+
+   * Unity 2018.4.2f1
+
+   * Unity SDK and project organisation
+
+2. ML-Agents Assets
+
+   * Agent
+
+   * Brain
+
+   * Academy
+
+3. Other features
+
+- Add informations in the dictionary
+- Change reset parameters
+- Build the application
+
+
+
+If you want learn more about ML-Agents v0.7, read the [documentation](ML-Agents_documentation/README.md)
+

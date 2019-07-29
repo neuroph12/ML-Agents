@@ -4,7 +4,17 @@ To use the new environments, you need to install ML-Agents via an Anaconda virtu
 
 Each of the subsections below guides you step by step.
 
-## Install Anaconda
+### Contents
+
+* [Install Anaconda](install_anaconda)
+* [Mac User]()
+* [Unix User]()
+* [Virtual Environment creation]()
+* [Next Step]()
+
+
+
+## <a name="install_anaconda">Install Anaconda</a>
 
 [Download](https://www.anaconda.com/distribution/) Anaconda with Python 3.7 version for your operating system.
 
@@ -13,7 +23,7 @@ Each of the subsections below guides you step by step.
 <p align="center">
   <img src="images/AnacondaDownload.png"
        alt="Anaconda download page"
-       width="500" border="10" />
+       width="80%" border="10" />
 </p>
 
 
@@ -27,7 +37,7 @@ Double-click the downloaded file and click continue to start the installation.
 <p align="center">
   <img src="images/MacInstallation1.png"
        alt="Anaconda Introduction"
-       width="500" border="10" />
+       width="60%" border="10" />
 </p>
 
 Answer the prompts on Read Me and License screens.
@@ -46,7 +56,7 @@ Click the Install button to install Anaconda in your home user directory (recomm
 <p align="center">
   <img src="images/MacInstallation4.png"
        alt="Anaconda Directory"
-       width="500" border="10" />
+       width="60%" border="10" />
 </p>
 
 Do not install Anaconda with PyCharm and click the Continue button.
@@ -54,7 +64,7 @@ Do not install Anaconda with PyCharm and click the Continue button.
 <p align="center">
   <img src="images/MacInstallation5.png"
        alt="Anaconda PyCharm"
-       width="500" border="10" />
+       width="60%" border="10" />
 </p>
 
 A successful installation displays the following screen:
@@ -62,7 +72,7 @@ A successful installation displays the following screen:
 <p align="center">
   <img src="images/MacInstallation6.png"
        alt="Anaconda Sucessfull"
-       width="500" border="10" />
+       width="60%" border="10" />
 </p>
 
 ## Unix Users
@@ -161,7 +171,7 @@ conda activate ml-agents
 
 
 
-## Next Steps
+## Next Step
 
 How to install [ML-Agents](ML-Agents_Install.md) & Gym-Unity in our virtual environment
 

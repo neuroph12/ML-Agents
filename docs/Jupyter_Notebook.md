@@ -23,11 +23,11 @@ jupyter notebook
 
 This command open a webpage. In this page, you will find the currently folder.
 
-<img src="images/JupyterFolder.png" align="middle" width="3000"/>
+<img src="images/JupyterFolder.png" align="middle" width="100%"/>
 
 Open the notebook `notebook_push_blocks.ipynb`. You must have the window below: 
 
-<img src="images/PushBlocksNotebook.png" align="middle" width="3000"/>
+<img src="images/PushBlocksNotebook.png" align="middle" width=100%/>
 
 
 

@@ -2,6 +2,16 @@
 
 ## Install ML-Agents
 
+###Install Git Large File Storage
+
+The first step is to install Git LFS which allows to download all the files in the Github repesitory.
+
+```bash
+brew install git-lfs
+```
+
+
+
 ### Clone the ML-Agents Toolkit Repository
 
 Once installed and the virtual environment launched, you will want to clone the ML-Agents Toolkit GitHub repository.
