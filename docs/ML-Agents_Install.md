@@ -1,8 +1,21 @@
-# Installation (part 2/2)
+# Installation : ML-Agents & Gym-Unity (part 2/2)
 
-## Install ML-Agents
+The second part of the installation show you how to install Git LFS, ML-Agents, Gym-Unity and Matplotlib.
 
-###Install Git Large File Storage
+Come back to [home](Home.md)
+
+### Contents
+
+- [Install Git LFS](#git_lfs)
+- [Clone the ML-Agents Toolkit Repository](#clone)
+- [Install ML-Agents Package](#ml-agents)
+- [Install Gym-Unity Package](#gym)
+- [Install Matplotlib](#matplotlib)
+- [Next Step](#next_step)
+
+
+
+## <a name="git_lfs">Install Git Large File Storage</a>
 
 The first step is to install Git LFS which allows to download all the files in the Github repesitory.
 
@@ -12,7 +25,7 @@ brew install git-lfs
 
 
 
-### Clone the ML-Agents Toolkit Repository
+## <a name="clone">Clone the ML-Agents Toolkit Repository</a>
 
 Once installed and the virtual environment launched, you will want to clone the ML-Agents Toolkit GitHub repository.
 
@@ -30,7 +43,7 @@ The `gym-unity` subdirectory contains a package to interface with OpenAI Gym.
 
 
 
-### Install ML-Agents Package
+## <a name="ml-agents">Install ML-Agents Package</a>
 
 To install the dependencies and `mlagents` Python package, enter the
 `ml-agents/` subdirectory and run from the command line:
@@ -44,7 +57,7 @@ If you installed this correctly, you should be able to run
 
 
 
-### Install Gym-Unity Package
+## <a name="gym">Install Gym-Unity Package</a>
 
 Come back in the main folder, enter the `gym-unity` subdirectory and run from the command line:
 
@@ -54,7 +67,7 @@ pip install -e .
 
 
 
-### Install Matplotlib
+## <a name="matplotlib">Install Matplotlib</a>
 
 We advise you to install the `matplotlib` package if you want to see the agent observations and launch the notebooks:
 
@@ -64,7 +77,9 @@ conda install matlplotlib
 
 
 
-## Next Steps
+## <a name="next_step">Next Step</a>
 
-The next step show you how to [run an environment]() with a notebook and the main command line to interact with it.
+The next step show you how to [run an environment]() with a notebook and the main command line to interact with it
+
+or come back to [home](Home.md)
 

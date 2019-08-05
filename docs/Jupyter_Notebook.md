@@ -1,8 +1,20 @@
-# Launch an environment (part 1/2)
+# Use an environment : Jupyter Notebook (part 1/2)
 
 The first part explain you how to launch an environment through a Jupyter Notebook and Gym commands
 
-### The environments
+Come back to [home](Home.md)
+
+### Contents
+
+- [The environments](#environments)
+
+- [Jupyter Notebook](#notebook)
+
+- [Next Step](#next_step)
+
+  
+
+## <a name="environments">The environments</a>
 
 Go in the main folder and enter the `environments` subdirectory. You will find 6 folders that correspond to the new environments. In each folder, you will find 6 files or folders :
 
@@ -13,7 +25,7 @@ Go in the main folder and enter the `environments` subdirectory. You will find 6
 
 
 
-### Jupyter Notebook
+## <a name="notebook">Jupyter Notebook</a>
 
 Until the en of this part, we will work with the environment `PushBlocks`. Enter in the `PushBlocks ` subdirectory and run from the command line: (don't forgive to activate the virtual environment [create before](Anaconda_Install.md))
 
@@ -35,7 +47,11 @@ This page explain you how to launch the environment, reset it, control the agent
 
 For more details about the command, go on the page [Gym-Unity Wrapper](Gym-Unity_Wrapper).
 
-## Next Steps
 
-The next step show you how to [run an environment]() with a notebook and the main command line to interact with it.
+
+## <a name="next_step">Next Step</a>
+
+The next step is the explanation of [Gym-Unity's main commands](Gym-Unity_Commands.md) allowing to use the environment.
+
+or come back to [home](Home.md)
 

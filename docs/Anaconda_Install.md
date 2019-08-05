@@ -1,18 +1,24 @@
-# Installation (part 1/2)
+# Installation : Anaconda (part 1/2)
 
 To use the new environments, you need to install ML-Agents via an Anaconda virtual environment and  launch (or create) a notebook.
 
 Each of the subsections below guides you step by step.
 
+Come back to [home](Home.md)
+
 ### Contents
 
-* [Install Anaconda](install_anaconda)
-* [Mac User]()
-* [Unix User]()
-* [Virtual Environment creation]()
-* [Next Step]()
+* [Install Anaconda](#install_anaconda)
 
+* [Mac User](#mac_user)
 
+* [Unix User](#unix_user)
+
+* [Virtual Environment creation](#virtual_environment)
+
+* [Next Step](#next_step)
+
+  
 
 ## <a name="install_anaconda">Install Anaconda</a>
 
@@ -28,7 +34,7 @@ Each of the subsections below guides you step by step.
 
 
 
-## Mac Users
+## <a name="mac_user">Mac Users</a>
 
 ### Installation procedure
 
@@ -75,7 +81,7 @@ A successful installation displays the following screen:
        width="60%" border="10" />
 </p>
 
-## Unix Users
+## <a name="unix_user">Unix Users</a>
 
 ###Installation procedure
 
@@ -151,7 +157,7 @@ conda update --all
 
 
 
-## Virtual Environment creation (for all)
+## <a name="virtual_environment">Virtual Environment creation (for all)</a>
 
 You have to create an Anaconda environments with the `conda create` command. Create a Python 3.6 environment named `ml-agents` with the following command:
 
@@ -171,7 +177,9 @@ conda activate ml-agents
 
 
 
-## Next Step
+## <a name="next_step">Next Step</a>
 
 How to install [ML-Agents](ML-Agents_Install.md) & Gym-Unity in our virtual environment
+
+or come back to [home](Home.md)
 
