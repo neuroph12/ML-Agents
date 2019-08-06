@@ -41,7 +41,7 @@ Come back to [home](../Home.md)
 |       <a name="observations">Agent's Observations</a>        | The agent sends its observations (image 84x84) at each step  |
 | <a name="informations">Informations stored in a dictionary</a> | The agent stores its **position**, if whether a **button is enabled** and the **number of the image** displayed at each step |
 |                  <a name="Reset">Reset</a>                   | <br />If the user wants to reset the environment, he can change the parameters. He can choose to **enable one or more buttons** and which **image will be displayed** at the beginning of the simulation.<br /> |
-|         <a name="parameters">Reset's Parameters</a>          | <br />**firstButton [0, 1]** : 0 disable the button ; 1 enable the button<br />**secondButton [0, 1]** : 0 disable the button ; 1 enable the button<br />**thirdButton [0, 1]** : 0 disable the button ; 1 enable the button<br />**switch [1, 3]** : 1 display the first image ; 2 display the second image : 3 display the third image<br /> |
+|         <a name="parameters">Reset's Parameters</a>          | <br />**firstButton [0, 1]** : 0 disable the button ; 1 enable the button<br />**secondButton [0, 1]** : 0 disable the button ; 1 enable the button<br />**thirdButton [0, 1]** : 0 disable the button ; 1 enable the button<br />**switch [0, 2]** : 1 display the first image ; 2 display the second image : 3 display the third image<br /> |
 |            <a name="distraction">Distraction</a>             | **Particles** when the buttons are enabled                   |
 
 ## <a name="next_steps">Next Steps</a>
