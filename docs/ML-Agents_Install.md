@@ -79,7 +79,7 @@ conda install matlplotlib
 
 ## <a name="next_step">Next Step</a>
 
-The next step show you how to [run an environment]() with a notebook and the main command line to interact with it
+The next step show you how to [run an environment](Jupyter_Notebook.md) with a notebook and the main command line to interact with it
 
 or come back to [home](Home.md)
 

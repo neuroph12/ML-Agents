@@ -44,6 +44,50 @@ Come back to [home](../Home.md)
 |         <a name="parameters">Reset's Parameters</a>          | **load_game [0, 8]** : 0 none game is launched ; 1-8 launch a game at the beginning of the simulation |
 |            <a name="distraction">Distraction</a>             | Some distractions are present in the games                   |
 
+
+
+### The maze
+
+This game allows the agent to move a ball in a maze. The agent see the maze at the third point of view, can move the ball forward and backward, left and right. There is a timer on the left of the screen that stops when the ball touch the coin in the maze (end).
+
+
+
+### Tetris
+
+This game is a simple tetris game. The agent can turn the tetrominos, speed up their falling and move them left or right. Each line maked by the tetrominos increase the score by 1.
+
+
+
+### Space Invaders
+
+This game is a classical Space Invaders but more difficult. The agent can control a space ship that can go forward, backward, left and right, and shoot a laser. The space ship has to avoid or destroy meteors or aliens. The score increase according to the object destroy. Each object has specifics speed and features.
+
+
+
+### Pong
+
+The original pong game. The agent control a paddle that can go forward and backward. It plays against a simple AI. The first which reaches 3 points wins
+
+
+
+### Platform game
+
+This game allow to the agent to control a character that explores a world. In this world, the character has to move objects and resolve simple puzzles. There are 2 levels. The character can go left and right, jump, climb a ladder and do actions.
+
+
+
+### Cuphead
+
+In this environment, the agent can not control anything. It is a simple video that shows the game Cuphead designed with the software Unity.
+
+
+
+### Random Game
+
+In this environment, no matter the actions of the agent, the behaviors are random. It shows to the agent severals balls. When the agent does an action, the balls can grow, shrink, be destroyed or change thier color.
+
+
+
 ## <a name="next_steps">Next Steps</a>
 
 Other environments : 

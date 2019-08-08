@@ -120,4 +120,3 @@ The `Scripts` folders contain scripts of Academies and Agents, obligatory for th
 The next step explain [how works ML-Agents and these components](ML-Agents_Overview.md),
 
 or come back to [home](Home.md)
-

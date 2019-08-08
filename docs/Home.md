@@ -37,10 +37,9 @@
 3. Other features
 
    * [Add informations in the dictionary](Dictionary_Informations.md)
-
-   * [Add reset parameters](Reset_parameters.md)
-
+* [Add reset parameters](Reset_parameters.md)
    * [Change an environment during a simulation](Environment_modification.md)
+* [Frequent mistakes](Frequent_mistakes.md)
 
 
 

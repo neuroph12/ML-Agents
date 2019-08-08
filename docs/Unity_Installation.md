@@ -115,7 +115,7 @@ In the new window, choose the options `Linux Build Support` and `Mac Build Suppo
 
 ## <a name="next_step">Next Step</a>
 
-The next step show you how to [run the unity project]() and how the project is organized
+The next step show you how to [run the unity project](Unity_project.md) and how the project is organized
 
 or come back to [home](Home.md)
 

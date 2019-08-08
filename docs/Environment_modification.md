@@ -43,7 +43,7 @@ The next step is to add in the `MoveAgent()` function the behavior of the enviro
 
 ### <a name="result">Result in Gym-Unity</a>
 
-When you will launch the example environment in Gym, you will be able to controll the agent : <span style="color:rgb(255,230,0)">**Yellow block**</span>. When you send the action 2 and compare the rendering, you observe that a red bock is appeared : <span style="color:blue">**Yellow block**</span>
+When you will launch the example environment in Gym, you will be able to controll the agent : <span style="color:rgb(255,230,0)">**Yellow block**</span>. When you send the action 2 and compare the rendering, you observe that a red bock is appeared : <span style="color:blue">**blue block**</span>
 
 <p align="center">
   <img src="images/During_Notebook.png"

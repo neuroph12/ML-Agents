@@ -45,8 +45,6 @@ Open the notebook `notebook_push_blocks.ipynb`. You must have the window below:
 
 This page explain you how to launch the environment, reset it, control the agent and change the parameters before a reset. Don't forget to change the `environment_filename` in according to your operating system.
 
-For more details about the command, go on the page [Gym-Unity Wrapper](Gym-Unity_Wrapper).
-
 
 
 ## <a name="next_step">Next Step</a>

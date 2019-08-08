@@ -178,6 +178,6 @@ env.reset_param('wrong_parameter', 1)
 
 ## <a name="next_step">Next Step</a>
 
-The first part of the documentation allowing to use an Unity environment with Gym is completed. You can read the [documents about the environments](). Theses documents describe each environment, their reset parameters, the agents's observations and actions.
+The first part of the documentation allowing to use an Unity environment with Gym is completed. You can read [the explainations of features of environments](Environments/PushBlocks.md). Theses documents describe each environment, their reset parameters, the agents's observations and actions.
 
 or come back to [home](Home.md)

@@ -72,6 +72,6 @@ If you download this deposit, you can only work on the environments already buil
 
 ## Contact
 
-We used the open-source project ML-Agents and designed our environments with the software Unity. If you have questions about how work these toolkits you can read the [ML-Agents documentation](https://github.com/Unity-Technologies/ml-agents).
+We used the open-source project ML-Agents and designed our environments with the software Unity. If you have questions about how work these toolkits you can read the [ML-Agents documentation](docs/ML-Agents_documentation/README.md).
 
 If you want to learn more about the Flowers Team of Inria Bordeaux Sud-Ouest, go on our [web site](https://flowers.inria.fr/).
